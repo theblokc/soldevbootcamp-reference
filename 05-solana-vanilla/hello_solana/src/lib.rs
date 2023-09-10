@@ -1,5 +1,5 @@
-use solana_program::{ // to build: cargo-build-sbf 
-    account_info::AccountInfo, // EVENT: SBC02-Day2
+use solana_program::{
+    account_info::AccountInfo,
     entrypoint,
     entrypoint::ProgramResult,
     msg,
@@ -14,3 +14,5 @@ fn process_instruction(
         Ok(())
 }
 entrypoint!(process_instruction);
+
+// to build: cargo-build-sbf
