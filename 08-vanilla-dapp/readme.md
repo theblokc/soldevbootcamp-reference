@@ -4,7 +4,7 @@
 
 1. Enter in terminal
 ```
-npm i
+cd app && npm i
 ```
 2. Enter in terminal
 ```

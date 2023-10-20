@@ -1,3 +1,12 @@
+
+.anchor
+.DS_Store
+target/*
+!target/deploy
+**/*.rs.bk
 node_modules
-_bundle.js
-_bundle.js.*
+test-ledger
+.yarn
+.env
+environment.ts
+ts-app
