@@ -25,7 +25,8 @@ We welcome contributions from the community! If you have code samples, tutorials
 
 ## Contact
 
-- Mark Hugh Neri | [@k1merran](https://twitter.com/k1merran): mh.neri@gmail.com
+- Mark Hugh Neri | [@k1merran](https://twitter.com/k1merran): mark@theblokc
+
 - Renzo Cabarios | [@RenzoCabarios](https://twitter.com/RenzoCabarios): renzo.cabarios@gmail.com
 
 ## Additional Reference
