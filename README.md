@@ -23,3 +23,6 @@ https://github.com/SolanaNatives/Solana-Programming-Resources
 [Builders | WBA](https://web3builders.dev/builders)
 
 [Developers: Resources and Information for Building on Solana | Solana](https://solana.com/developers)
+
+
+https://careerbooster.io/courses/rust-solana-advance-development-course
